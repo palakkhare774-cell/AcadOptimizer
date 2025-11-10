@@ -1,6 +1,7 @@
 **AcadOptimizer**
 
 AcadOptimizer is an interactive web application designed to help students analyze and improve their academic performance using machine learning techniques. The app allows you to input academic data (like marks, attendance, and assignments) and provides insights or predictions to help optimize learning strategies. It’s built with Streamlit, making it easy to run directly in a browser, even from Google Colab.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🚀 Features**
 
@@ -11,6 +12,7 @@ AcadOptimizer is an interactive web application designed to help students analyz
 **Quick Deployment:** Can be run locally on your machine or hosted online using Google Colab and Ngrok.
 
 **Extensible:** Easy to integrate with your own datasets or models.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🧠 Tech Stack**
 
@@ -23,6 +25,7 @@ scikit-learn: A popular Python library for machine learning, used to build predi
 Joblib: Used to save and load trained machine learning models efficiently.
 
 Google Colab: A cloud-based platform that allows you to run Python notebooks without installing anything locally.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **⚙️ How to Run**
 
@@ -67,6 +70,7 @@ Click Submit or Predict.
 The app will display insights or predictions about your academic performance.
 
 Use the results to identify areas of improvement or optimize your study strategies.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📂 Project Structure**
 AcadOptimizer/
@@ -76,6 +80,7 @@ AcadOptimizer/
 │   └── model.pkl       # Trained machine learning model
 ├── requirements.txt    # Required Python libraries
 └── README.md           # Project documentation
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🤝 Contributing**
 
@@ -84,6 +89,7 @@ Feel free to fork this repository, modify the model, or add new features like:
 Better data visualization
 
 Support for more academic parameters
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Integration with Google Sheets for automatic data import
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
